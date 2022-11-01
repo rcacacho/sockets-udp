@@ -1,0 +1,26 @@
+29-10-2022 22:02:09:646 udp_client [INFO] : inicio client
+29-10-2022 22:02:22:705 udp_client [TRACE] : [1] Consulta de llaves k1 at localhost:5836
+29-10-2022 22:02:22:705 udp_client [INFO] : inici RemoteMapUDPclient.get 
+29-10-2022 22:02:22:705 udp_client [TRACE] : key: k1
+29-10-2022 22:02:22:705 udp_client [TRACE] : server_address: localhost
+29-10-2022 22:02:22:705 udp_client [TRACE] : server_port: 5836
+29-10-2022 22:02:22:705 udp_client [TRACE] : [1] RemoteMap(k1): null
+29-10-2022 22:02:22:705 udp_client [TRACE] : [2] Consulta de llaves k2 at localhost:5838
+29-10-2022 22:02:22:705 udp_client [INFO] : inici RemoteMapUDPclient.get 
+29-10-2022 22:02:22:706 udp_client [TRACE] : key: k2
+29-10-2022 22:02:22:706 udp_client [TRACE] : server_address: localhost
+29-10-2022 22:02:22:706 udp_client [TRACE] : server_port: 5838
+29-10-2022 22:02:22:706 udp_client [TRACE] : [2] RemoteMap(k2): null
+29-10-2022 22:02:22:706 udp_client [TRACE] : [3] Consulta de llaves k3 at localhost:5836
+29-10-2022 22:02:22:706 udp_client [INFO] : inici RemoteMapUDPclient.get 
+29-10-2022 22:02:22:706 udp_client [TRACE] : key: k3
+29-10-2022 22:02:22:706 udp_client [TRACE] : server_address: localhost
+29-10-2022 22:02:22:706 udp_client [TRACE] : server_port: 5836
+29-10-2022 22:02:22:706 udp_client [TRACE] : [3] RemoteMap(k3): null
+29-10-2022 22:02:22:706 udp_client [TRACE] : [4] Consulta de llaves k4 at localhost:5836
+29-10-2022 22:02:22:706 udp_client [INFO] : inici RemoteMapUDPclient.get 
+29-10-2022 22:02:22:706 udp_client [TRACE] : key: k4
+29-10-2022 22:02:22:706 udp_client [TRACE] : server_address: localhost
+29-10-2022 22:02:22:706 udp_client [TRACE] : server_port: 5836
+29-10-2022 22:02:22:706 udp_client [TRACE] : [4] RemoteMap(k4): null
+29-10-2022 22:02:22:706 udp_client [INFO] : map: {k1=null, k2=null, k3=null, k4=null}

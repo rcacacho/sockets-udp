@@ -1,0 +1,4 @@
+31-10-2022 10:22:39:702 udp_servidor [INFO] : inici servidor
+31-10-2022 10:22:54:351 udp_servidor [INFO] : Inici RemoteMapUDPservidor 
+31-10-2022 10:22:54:352 udp_servidor [INFO] : server_port: 5836
+31-10-2022 10:22:54:352 udp_servidor [INFO] : map: {k1=R_k1, k3=R_k3, k4=R_k4}

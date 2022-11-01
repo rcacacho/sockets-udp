@@ -1,0 +1,8 @@
+29-10-2022 22:28:53:801 udp_client [INFO] : inicio client
+29-10-2022 22:28:57:835 udp_client [TRACE] : [1] Consulta de llaves k1 at localhost:5836
+29-10-2022 22:28:57:836 udp_client [INFO] : inicio RemoteMapUDPclient.get 
+29-10-2022 22:28:57:836 udp_client [TRACE] : key: k1
+29-10-2022 22:28:57:836 udp_client [TRACE] : server_address: localhost
+29-10-2022 22:28:57:836 udp_client [TRACE] : server_port: 5836
+29-10-2022 22:28:57:836 udp_client [TRACE] : [1] RemoteMap(k1): k1, localhost, 5836
+29-10-2022 22:28:57:836 udp_client [INFO] : map: {k1=k1, localhost, 5836}
