@@ -24,23 +24,23 @@ public class RemoteMapUDPclient {
 
 			switch (server) {
 			case "k1":
-				server = "R_k1";
+				server = "eyyllemfghot";
 				break;
 			case "k2":
-				server = "R_k2";
+				server = "pfmrjcionsqx";
 				break;
 			case "k3":
-				server = "R_k3";
+				server = "tnmaqpklkwqb";
 				break;
 			case "k4":
-				server = "R_k4";
+				server = "qdlagqcldlde";
 				break;
 			default:
 				break;
 			}
 
 			if (i == 4) {
-				server = "R_k1, R_k2, R_k3, R_k4";
+				server = "qdlagqcldlde";
 			}
 
 			String value2 = key.getKey() + ", " + key.getServerAddress() + ", " + key.getServerPort();
